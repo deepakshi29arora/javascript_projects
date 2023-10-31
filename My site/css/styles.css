@@ -1,0 +1,150 @@
+.screen
+{    
+    background-color:#F0F8FF;
+    position:relative; 
+    padding-top: 100px;
+      
+}
+.middle-container
+{
+    padding-top:50px;
+}
+body{
+    text-align: center;
+    margin-top:0;
+    COLOR:GREY;
+    margin: 0px;
+    padding: 0px;
+}
+.skill-row
+{
+    width:50%;
+    margin:50px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}  
+hr
+{
+    border:dotted 8px;
+    color:grey;
+    border-bottom: none;
+    width:4%;
+    margin:40px auto;
+}
+.skills-logo2
+{
+
+width:25%;
+float:right;
+margin-right: 30px;
+}  
+.skills-logo
+{
+
+width:25%;
+float:left;
+margin-right: 30px;
+}
+h1
+{
+    margin:50 auto 0 auto;
+    font-size: 4rem;
+    color: #66BFBF;
+    line-height: 2;
+}
+.btn {
+    background: #66BFBF;
+    background-image: -webkit-linear-gradient(top, #66BFBF, #66BFBF);
+    background-image: -moz-linear-gradient(top, #66BFBF, #66BFBF);
+    background-image: -ms-linear-gradient(top, #66BFBF, #66BFBF);
+    background-image: -o-linear-gradient(top, #66BFBF, #66BFBF);
+    background-image: linear-gradient(to bottom, #66BFBF, #66BFBF);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Arial;
+    color: WHITE;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+  .bottom-container
+  {
+    background-color: #66BFBF;
+    margin:50px 0px 20px ;
+    
+
+  }
+h2
+{
+font-size: 1.5rem;
+color: #66BFBF;
+font-weight: normal;
+}
+.top-cloud
+{
+    position:absolute;
+    right:300px;
+    top:50px;
+}
+.bottom-cloud
+{
+    position:absolute;
+    left:300px;
+    bottom:300px;
+}
+
+.red
+{
+height:100px;
+width:100px;
+background-color:red;
+position:relative;
+    left:200px;
+
+}
+.blue
+{
+    height:100px;
+    width:100px; 
+    background-color:blue;
+    position:relative;
+    bottom:100px;
+}
+.yellow
+{
+    height:100px;
+width:100px;
+background-color:yellow;
+position:relative;
+    bottom:200px;
+    left:100px;
+}
+h3{
+    color:#11999E;
+}
+a
+{
+    color:#11999E;
+    margin:10px 20px;
+    text-decoration: none;
+}
+a:hover
+{
+   color: #eaf6f6; 
+}
+.copyright
+{
+    color: #eaf6f6;
+    font-size: small;
+}
